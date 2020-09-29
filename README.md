@@ -1,2 +1,2 @@
 # yachtmaster21.github.io-Wayland.fun
-A wayland website
+A wayland laptop website
